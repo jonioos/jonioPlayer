@@ -1,0 +1,57 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+mPlayer
+</name>
+</assembly>
+<members>
+<member name="T:jonioPlayer.My.Resources.Resources">
+<summary>
+  Classe di risorse fortemente tipizzata per la ricerca di stringhe localizzate e così via.
+</summary>
+</member>
+<member name="P:jonioPlayer.My.Resources.Resources.ResourceManager">
+<summary>
+  Restituisce l'istanza di ResourceManager nella cache utilizzata da questa classe.
+</summary>
+</member>
+<member name="P:jonioPlayer.My.Resources.Resources.Culture">
+<summary>
+  Esegue l'override della proprietà CurrentUICulture del thread corrente per tutte le
+  ricerche di risorse eseguite utilizzando questa classe di risorse fortemente tipizzata.
+</summary>
+</member>
+<member name="P:jonioPlayer.My.Resources.Resources.pause">
+<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:jonioPlayer.My.Resources.Resources.play">
+<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:jonioPlayer.My.Resources.Resources.play_pause">
+<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:jonioPlayer.My.Resources.Resources.unfold_less">
+<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:jonioPlayer.My.Resources.Resources.unfold_more">
+<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="M:jonioPlayer.Form1.swap``1(``0@,``0@)">
+ <summary>
+ funzione di scambio valida per ogni tipo di oggetto
+ </summary>    
+ <remarks>da notare che gli oggetti sono passato per riferimento</remarks>
+</member>
+</members>
+</doc>
